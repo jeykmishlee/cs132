@@ -13,5 +13,6 @@ This led us to the questions...
 
 PROBLEM
 The Philippines’s state of food insecurity compared to other countries, as well as our current level of hunger in 2024 compared to past years.
+
 SOLUTION
 Our solution is to use data science to gain insights on the state of food insecurity and hunger in the Philippines, what could be our hunger level by 2030, and from there, what we can do to address this issue. 
